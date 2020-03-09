@@ -1,0 +1,112 @@
+﻿
+body {
+    padding-top: 70px; 
+    background-image: url('../Images/Background.jpg');
+    background-repeat: repeat;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.BlackText{
+    color: black;
+    text-align: center;
+}
+}
+.WhiteText {
+    color: aliceblue;
+}
+.HeadersWhite {
+    font-size: medium;
+    color: aliceblue;
+}
+
+.ModelNameDetail {
+    font-size: 40px;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+    .caption h4 {
+        white-space: nowrap;
+    }
+
+.thumbnail img {
+    width: 100%;
+}
+
+.addToCart {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+    .thumbnail .caption-full {
+        padding: 9px;
+        color: #333;
+    }
+
+footer {
+    margin: 50px 0;
+}
+
+.navbar {
+    background-image: none;
+}
+
+.navbar-inverse {
+    background-color: #330026;
+    border-color: #330026;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+    font-size: 1.2em;
+}
+
+.navbar .nav > li > a {
+    font-size: 1.2em;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    color: white;
+}
+
+.carousel .item {
+    height: 400px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 400px;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background-color: #8600b3 !important;
+    border-color: #13001a !important;
+}
+
+.btn {
+    background-color: #600080 !important;
+    border-color: #13001a !important;
+}
